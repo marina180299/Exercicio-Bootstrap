@@ -1,12 +1,16 @@
-.fundo-vermelho,
-.fundo-azul {
+.fundo-vermelho {
     height: 200px;
 }
+.fundo-azul{
+    height: 316x;
+}
+
+
 
 .fundo-vermelho{
-    background: red;
+    background: rgb(175, 175, 175);
 }
 
 .fundo-azul{
-    background: blue;
+    background: rgb(175, 175, 175);
 }
