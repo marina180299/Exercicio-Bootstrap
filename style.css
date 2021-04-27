@@ -1,16 +1,16 @@
-.fundo-vermelho {
+.fundo-cinza1 {
     height: 173px;
 }
-.fundo-azul{
+.fundo-cinza2{
     height: 316x;
 }
 
 
 
-.fundo-vermelho{
+.fundo-cinza1{
     background: rgba(175, 175, 175, 0.774);
 }
 
-.fundo-azul{
+.fundo-cinza2{
     background: rgb(175, 175, 175);
 }
