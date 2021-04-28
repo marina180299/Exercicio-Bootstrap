@@ -16,17 +16,17 @@
 
 
 .fundo-cinza1{
-    background: rgba(175, 175, 175, 0.774);
+    background: rgba(131, 245, 239, 0.774);
 }
 
 .fundo-cinza2{
-    background: rgb(175, 175, 175);
+    background: rgba(131, 245, 239, 0.774);
 }
 
 .fundo-amarelo1{
-    background:rgba(255, 217, 0, 0.541) ;
+    background:rgb(169, 247, 227) ;
 }
 
 .fundo-amarelo2{
-    background: rgba(255, 230, 0, 0.767);
+    background: rgb(169, 247, 227) ;
 }
